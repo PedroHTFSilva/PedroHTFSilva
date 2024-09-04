@@ -22,8 +22,12 @@
     <img align="center" height="30" width="40" alt="C++-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" height="30" width="40" alt="C-sharp-icon" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/c-sharp.svg">
     <img align="center" height="30" width="40" alt="Visual-Studio" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/visualestudio.svg">
+    <img align="center" height="30" width="40" alt="Visual-Studio-code" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/VisualStudioCode.svg">
     <img align="center" height="30" width="40" alt="Figma" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/figma.svg">
-    <img align="center" height="30" width="40" alt="git" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/git.svg">
+    <img align="center" height="30" width="40" alt="git-hub" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/github.svg">
+    <img align="center" height="30" width="40" alt="python" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/python.svg">
+    <img align="center" height="30" width="40" alt="git" src="git.svg">
+    
   </div>
     
   
