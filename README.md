@@ -31,7 +31,7 @@
     <a href = "mailto: phfontessilva@hotmail.com">
       <img width="30" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/email.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/pedro-henrique-fontes/">
       <img width="25" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/linkedin.svg">
     </a>
    </div>
