@@ -7,9 +7,6 @@
 
 <br>
 
-<div align="center">
-<img align="left" height="250" alt="coding-time" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/PerfilGif.gif">
-</div>
 
 <div  align="center"> 
   <div style="display: flex; justify-content: space-between;"> <br>
@@ -26,9 +23,8 @@
     <img align="center" height="30" width="40" alt="git-hub" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/github.svg">
     <img align="center" height="30" width="40" alt="python" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/python.svg">
     <img align="center" height="30" width="40" alt="git" src="git.svg">
-    
   </div>
-    
+
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: phfontessilva@hotmail.com">
@@ -38,5 +34,7 @@
       <img width="25" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/linkedin.svg">
     </a>
    </div>
+
+
   
 ![Snake animation](https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/github-contribution-grid-snake.svg)
