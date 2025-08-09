@@ -4,7 +4,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e minhas principais tecnol
 
 Seja bem-vindo(a)!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHTFSilva&show_icons=true&theme=react&title_color=f7df1e&icon_color=f7df1e&hide=prs,issues"/>
 
 
 <div>
@@ -12,7 +11,7 @@ Seja bem-vindo(a)!
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHTFSilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/PedroHTFSilva">
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHTFSilva&layout=compact&langs_count=16&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHTFSilva&show_icons=true&theme=react&title_color=f7df1e&icon_color=f7df1e&hide=prs,issues"/>
   </a>
 </div>
 
