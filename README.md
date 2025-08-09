@@ -1,9 +1,19 @@
-## Hello Guys, Pedro Fontes Aqui!
+Olá, meu nome é Pedro Fontes!
+
+Sou formado em Análise e Desenvolvimento de Sistemas e minhas principais tecnologias são C#, WebApi e .NET.
+
+Seja bem-vindo(a)!
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHTFSilva&show_icons=true&theme=react&title_color=f7df1e&icon_color=f7df1e&hide=prs,issues"/>
 
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHTFSilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHTFSilva&layout=compact&langs_count=16&theme=react"/>
+  <a href="https://github.com/PedroHTFSilva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHTFSilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/PedroHTFSilva">
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHTFSilva&layout=compact&langs_count=16&theme=react"/>
+  </a>
 </div>
 
 
