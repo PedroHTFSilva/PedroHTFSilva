@@ -1,8 +1,6 @@
 Olá, meu nome é Pedro Fontes!
 
-Sou formado em Análise e Desenvolvimento de Sistemas e minhas principais tecnologias são C#, WebApi e .NET.
-
-Seja bem-vindo(a)!
+"Profissional de TI com 3 anos de experiência resolvendo problemas críticos de conectividade e infraestrutura (N1/N2). Atualmente focado em Cibersegurança e Desenvolvimento (.NET/C#), criando ferramentas para automatizar a proteção de servidores e otimizar o suporte técnico."
 
 
 
