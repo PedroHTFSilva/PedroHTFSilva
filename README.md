@@ -13,18 +13,24 @@ Atualmente focado em Cibersegurança e Desenvolvimento (.NET/C#), criando ferram
 
 
 <div  align="center"> 
-  <div style="display: flex; justify-content: space-between;"> <br>
-    <h1 align="center">Melhores Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="C++-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align="center" height="30" width="40" alt="C-sharp-icon" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/c-sharp.svg">
-    <img align="center" height="30" width="40" alt="Figma" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/figma.svg">
-    <img align="center" height="30" width="40" alt="git-hub" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/github.svg">
-    <img align="center" height="30" width="40" alt="python" src="https://github.com/PedroHTFSilva/PedroHTFSilva/blob/main/python.svg">
-    <img align="center" height="30" width="40" alt="git" src="git.svg">
+ <div align="center">
+  <h3>🛠️ Tech Stack & Infraestrutura</h3>
+  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
   </div>
 
   
