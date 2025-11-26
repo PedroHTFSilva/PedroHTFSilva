@@ -1,15 +1,12 @@
 Olá, meu nome é Pedro Fontes!
 
-"Profissional de TI com 3 anos de experiência resolvendo problemas críticos de conectividade e infraestrutura (N1/N2). Atualmente focado em Cibersegurança e Desenvolvimento (.NET/C#), criando ferramentas para automatizar a proteção de servidores e otimizar o suporte técnico."
+Profissional de TI com 3 anos de experiência resolvendo problemas críticos de conectividade e infraestrutura (N1/N2).
+
+Atualmente focado em Cibersegurança e Desenvolvimento (.NET/C#), criando ferramentas para automatizar a proteção de servidores e otimizar o suporte técnico.
 
 
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHTFSilva&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHTFSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+
 
 
 <br>
