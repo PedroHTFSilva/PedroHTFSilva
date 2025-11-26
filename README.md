@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ## Olá, eu sou o Pedro Fontes! 👋
+  ## Olá, eu sou o Pedro Fontes! 
   ### 🛡️ Unindo Suporte Técnico e Engenharia de Defesa
   
   <p align="center">
