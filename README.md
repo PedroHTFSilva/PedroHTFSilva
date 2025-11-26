@@ -8,8 +8,7 @@
   ### 🛡️ Unindo Suporte Técnico e Engenharia de Defesa
   
   <p align="center">
-    "Não basta corrigir o problema; é preciso blindar a infraestrutura."
-  </p>
+"A segurança não é um produto, é um processo." — Bruce Schneier  </p>
 
   <a href="https://www.linkedin.com/in/pedro-henrique-fontes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,11 +24,14 @@
 ---
 
 ### 🚀 Sobre Mim
-Sou um profissional híbrido com foco em **ISP (Provedores de Internet)** e **Proteção de Servidores**. Minha carreira começou resolvendo problemas críticos de conectividade para usuários finais (N1/N2), o que me deu uma visão profunda de protocolos de rede (TCP/IP, DNS).
+Sou um profissional em transição estratégica para **Engenharia de Redes e Cibersegurança**, trazendo uma bagagem sólida de 3 anos em suporte técnico e administração de infraestrutura.
 
-Atualmente, dedico meus projetos pessoais a **automatizar a segurança**. Utilizo minha formação em Desenvolvimento de Sistemas para criar ferramentas em **C# e Python** que detectam anomalias, mitigam ataques DDoS e otimizam o diagnóstico de redes.
+Minha trajetória profissional inclui uma atuação marcante no **Grupo VA Soluções Sustentáveis**, onde fui responsável pela administração de redes TCP/IP e suporte N1/N2, garantindo a continuidade do negócio. Anteriormente, tive contato direto com a indústria de telecomunicações na **DPR Telecomunicações**, o que me deu uma visão prática da cadeia produtiva do setor.
 
----
+Atualmente, combino essa experiência corporativa com minha formação em Análise e Desenvolvimento de Sistemas para criar soluções de **automação de segurança**. Desenvolvo ferramentas em **C# e Python** focadas em:
+* Mitigação de ataques DDoS (Camada 7).
+* Diagnóstico automatizado de falhas em ISPs.
+* Hardening de servidores Windows/Linux.
 
 ### 🛠️ Arsenal Tecnológico
 
